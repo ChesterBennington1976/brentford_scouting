@@ -1,0 +1,50 @@
+name,club,league,position,age,price,passAccuracy,goals,assists,tackles,interceptions,minutes
+Gonzalo García,Fulham,Premier League,Forward,22,30.0,80.4,1,0,2,2,825
+Rodrigo Muniz,Fulham,Premier League,Forward,25,18.4,60.0,1,0,0,0,96
+Josh King,Fulham,Premier League,Midfielder,19,34.2,86.0,2,1,11,2,813
+Oscar Bobb,Fulham,Premier League,Midfielder,23,22.5,83.1,1,0,12,7,739
+Kevin,Fulham,Premier League,Midfielder,23,21.7,83.3,0,0,4,1,75
+César Palacios,Fulham,Premier League,Midfielder,22,9.1,86.0,1,0,5,1,279
+Alex Iwobi,Fulham,Premier League,Midfielder,30,17.5,90.4,1,0,8,3,827
+Timothy Castagne,Fulham,Premier League,Defender,30,6.3,85.0,0,1,14,8,677
+Antonee Robinson,Fulham,Premier League,Defender,29,20.0,82.0,0,0,18,7,791
+Jaydee Canvot,Crystal Palace,Premier League,Defender,20,26.7,87.6,0,0,19,12,720
+Anan Khalaili,Crystal Palace,Premier League,Midfielder,22,20.0,74.3,1,0,29,14,683
+Yéremy Pino,Crystal Palace,Premier League,Forward,24,22.5,77.1,1,0,10,3,684
+Adam Wharton,Crystal Palace,Premier League,Midfielder,22,65.9,74.4,0,1,20,11,885
+Jean-Philippe Mateta,Crystal Palace,Premier League,Forward,29,24.2,68.0,0,0,2,1,167
+Eddie Nketiah,Crystal Palace,Premier League,Forward,27,11.2,79.1,1,1,5,1,294
+Dan Ndoye,Nottingham Forest,Premier League,Midfielder,26,28.4,77.5,2,0,2,1,625
+Murillo,Nottingham Forest,Premier League,Defender,24,40.9,87.3,0,1,16,10,900
+Neco Williams,Nottingham Forest,Premier League,Defender,25,24.2,79.2,1,0,20,5,894
+Daniel Muñoz,Nottingham Forest,Premier League,Midfielder,30,19.2,85.1,0,1,26,3,639
+Jair Cunha,Nottingham Forest,Premier League,Defender,21,21.7,82.0,1,0,8,6,715
+Gabriel Gudmundsson,Leeds United,Premier League,Defender,27,21.7,73.8,0,1,17,9,629
+Tarik Muharemović,Leeds United,Premier League,Defender,23,35.9,89.2,0,2,7,4,900
+Brenden Aaronson,Leeds United,Premier League,Midfielder,26,19.2,72.1,0,0,4,1,285
+Noah Okafor,Leeds United,Premier League,Forward,26,29.2,70.9,2,0,7,2,486
+Kiernan Dewsbury-Hall,Everton,Premier League,Midfielder,28,36.7,87.2,3,1,20,3,894
+Hayden Hackney,Everton,Premier League,Midfielder,24,29.2,90.2,0,1,3,2,185
+Tyrique George,Everton,Premier League,Forward,20,21.7,88.1,1,0,5,3,641
+Harrison Armstrong,Everton,Premier League,Midfielder,19,25.9,86.1,0,1,18,8,862
+Tyler Dibling,Everton,Premier League,Midfielder,20,13.1,92.6,0,0,2,0,125
+Chris Rigg,Sunderland,Premier League,Midfielder,19,20.0,86.0,0,0,4,1,234
+Enzo Le Fée,Sunderland,Premier League,Midfielder,26,23.4,78.9,3,1,15,7,863
+Wilson Isidor,Sunderland,Premier League,Forward,26,15.4,63.6,1,0,0,0,269
+Kevin Danso,Sunderland,Premier League,Defender,28,16.2,81.0,0,0,2,3,377
+Noah Sadiki,Sunderland,Premier League,Midfielder,21,35.0,86.5,0,0,12,6,847
+Chemsdine Talbi,Sunderland,Premier League,Midfielder,21,19.2,81.8,0,0,1,0,163
+Brian Brobbey,Sunderland,Premier League,Forward,24,41.7,78.8,3,0,2,1,624
+Emersonn,Ipswich Town,Premier League,Forward,22,20.9,65.0,2,1,5,1,661
+Zian Flemming,Ipswich Town,Premier League,Forward,28,15.8,74.2,2,0,4,0,177
+Anis Mehmeti,Ipswich Town,Premier League,Midfielder,25,10.5,0.0,0,0,0,0,0
+Leif Davis,Ipswich Town,Premier League,Defender,26,21.7,78.3,2,1,11,6,900
+Mohamed Belloumi,Hull City,Premier League,Midfielder,24,14.3,67.0,3,2,24,10,690
+Oli McBurnie,Hull City,Premier League,Forward,30,6.3,57.4,2,2,5,2,888
+Lewis Hall,Newcastle United,Premier League,Defender,22,43.4,84.5,1,1,22,18,899
+Jack Hinshelwood,Brighton & Hove Albion,Premier League,Midfielder,21,28.4,81.8,3,0,2,1,160
+Charalampos Kostoulas,Brighton & Hove Albion,Premier League,Forward,19,35.9,72.2,3,2,9,2,725
+Maxim De Cuyper,Brighton & Hove Albion,Premier League,Defender,25,24.2,85.0,2,3,16,7,827
+Georginio Rutter,Brighton & Hove Albion,Premier League,Forward,24,25.9,53.6,0,2,4,0,154
+Ayden Heaven,Manchester United,Premier League,Defender,20,26.7,94.5,0,0,5,1,225
+Leny Yoro,Manchester United,Premier League,Defender,21,35.0,87.5,0,0,14,15,441
